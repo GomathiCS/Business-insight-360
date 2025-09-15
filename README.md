@@ -30,6 +30,8 @@ Dashboard design principles
 
 User-centric design
 
-Stakeholder communication
+Stakeholder communication 
+
 File size optimization using DAX Studio
+
 Data integration from various sources like Excel/CSV files, MySQL database, etc.
