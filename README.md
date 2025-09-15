@@ -1,5 +1,6 @@
 # Business-insight-360
 This project is a comprehensive Power BI dashboard developed to analyze and visualize key performance metrics across various departments at AtliQ Hardware. It provides actionable insights into finance, sales, marketing, supply chain, and executive operations, empowering stakeholders to make informed decisions for strategic growth.
+
 View my project here https://app.powerbi.com/view?r=eyJrIjoiNWI1OWY4YWUtNGY2ZS00ZWQxLWJkMDQtYjgzNTBmMGZjNDFjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 FEATURES
